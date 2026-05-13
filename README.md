@@ -62,7 +62,7 @@ The model is instructed to infer the currency from symbols, country context, or 
 ## Tech Stack
 
 - Vanilla HTML/CSS/JS (zero dependencies, zero build tools)
-- Gemini 1.5 Flash Latest API with vision (inline_data image block)
+- Gemini 1.5 Flash API with vision (inline_data image block)
 - In-memory storage for submissions
 
 ---
