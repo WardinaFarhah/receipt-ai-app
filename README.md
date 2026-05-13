@@ -37,7 +37,7 @@ vercel --prod
 
 ## Model & Prompt
 
-**Model:** `gemini-2.0-flash` (Google — free tier via AI Studio)
+**Model:** `gemini-1.5-flash` (Google — free tier via AI Studio)
 
 **Prompt strategy:** Single-turn vision prompt with structured JSON output constraint.
 
@@ -62,7 +62,7 @@ The model is instructed to infer the currency from symbols, country context, or 
 ## Tech Stack
 
 - Vanilla HTML/CSS/JS (zero dependencies, zero build tools)
-- Gemini 2.0 Flash API with vision (inline_data image block)
+- Gemini 1.5 Flash Latest API with vision (inline_data image block)
 - In-memory storage for submissions
 
 ---
